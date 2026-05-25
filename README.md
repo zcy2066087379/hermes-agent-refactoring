@@ -17,3 +17,4 @@
 * 核心框架：Hermes Agent
 * 底层模型：GPT Series, Gemini Series
 * 演示端：HTML5, JavaScript, Prism.js (完全运行于前端沙盒)
+ https://zcy2066087379.github.io/hermes-agent-refactoring/
